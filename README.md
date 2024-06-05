@@ -1,1 +1,1 @@
-# Channel-sounding-techniques-GNU-Raio
+# Channel-sounding-techniques-GNU-Radio
